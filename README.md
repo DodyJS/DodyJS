@@ -1,4 +1,4 @@
-<h1 align="center">😊Olá, eu sou o Josué Schiavini</h1>
+<h1 align="center">Olá, eu sou o Josué Schiavini😊</h1>
 <h2 align="center">📗Estou cursando Análise e Desenvolvimento de Sistemas na Uniftec de Caxias do Sul/RS</h2>
 <div align="center">
   <a href="https://github.com/DodyJS">
