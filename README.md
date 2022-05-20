@@ -1,5 +1,5 @@
 ## <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/vulcan-salute_1f596.png" width="30px;" alt=""/> Olá, eu sou o Josué Schiavini
-##### - 📚 Estou cursando Análise e Desenvolvimento de Sistemas na Uniftec de Caxias do Sul/RS
+#### - 📚 Estou cursando Análise e Desenvolvimento de Sistemas na Uniftec de Caxias do Sul/RS
 
 
 ## </br></br></br>Github Stats
