@@ -18,7 +18,8 @@
 
 ✉️ Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Josué-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josueschiavini/)](https://www.linkedin.com/in/josueschiavini/)
+[![LinkedIn](https://img.shields.io/badge/josueschiavini-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josueschiavini/)
+[![Instagram](https://img.shields.io/badge/-jschiavini-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jschiavini/)](https://www.instagram.com/jschiavini/)
 
   
 ## 🛠Em construção...
