@@ -43,6 +43,8 @@
     <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
     <img align="center" alt="Intellij" height="30" width="40" src="https://icongr.am/devicon/intellij-original.svg?size=128&color=currentColor"/>
     <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+    <img align="center" alt="Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=ffffff)"/>
+    <img align="center" alt="Githun" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </a>
 </div>
 
