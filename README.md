@@ -3,6 +3,7 @@
 #### - 🌱 Aprendendo HTML, CSS, JavaScript, Git e Github na Alura
 #### - ☕ Java na faculdade
 #### - 🏦 Conhecimentos básicos em querys SQL
+#### - 🤓 Migrando do suporte para o desenvolvimento
 #### - 🥋 Faixa amarela Karatê
 
 
