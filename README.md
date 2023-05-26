@@ -9,15 +9,6 @@
 #### - <a href="https://www.jetbrains.com/pt-br/idea/">Intellij IDE</a>
 #### - <a href="https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms">SSMS</a>
 #### - <a href="https://www.oracle.com/br/database/technologies/appdev/sqldeveloper-landing.html">Oracle SQL Developer</a>
-
-
-## </br></br></br>Github Stats
-<div align="center">
-  <a href="https://github.com/josueschiavini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josueschiavini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josueschiavini&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
   
   
 ## </br></br></br>Autor
