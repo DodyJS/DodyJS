@@ -1,9 +1,5 @@
 ## <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/vulcan-salute_1f596.png" width="40px;" alt=""/> Olá, eu sou o Josué Schiavini
 #### - 📚 Cursando Análise e Desenvolvimento de Sistemas na Uniftec de Caxias do Sul/RS
-#### - 🌱 Aprendendo HTML, CSS, JavaScript, Git e Github na Alura
-#### - ☕ Java na faculdade
-#### - 🏦 Conhecimentos básicos em querys SQL
-#### - 🥋 Faixa amarela Karatê
 
 
 
